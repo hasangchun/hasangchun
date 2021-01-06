@@ -23,6 +23,6 @@
 
 #### :zap: Check out my CV [HERE]
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=default&show_icons=false)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=default&show_icons=true)
 
  
