@@ -15,14 +15,14 @@
 
 
 ### :fire: Interest
---
+---
 - Speech Recognition
 - Speech Synthesis
 - Natural Language Processing
 
 
 #### :zap: Check out my CV [HERE]
-
+---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=dark&show_icons=true)
 
  
