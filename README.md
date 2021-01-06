@@ -11,13 +11,14 @@
 
 ### :books: Education
 ---
-- Undergraduate Student in School of elcomm, Kwangwoon University ('2016.03 ~ 2022.02 (Expected)')
+- Undergraduate Student in School of elcomm, Kwangwoon University `2016.03 ~ 2022.02 (Expected)`
 
 
-### Interest
+### :fire: Interest
 - Speech Recognition
 - Speech Synthesis
 - Natural Language Processing
+
 
 #### Check out my CV [HERE]
 
