@@ -22,7 +22,7 @@
 - Natural Language Processing
 
 
-#### :zap: Check out my CV  [HERE]
+#### :zap: Check out my CV   [HERE]
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=default&show_icons=true)
 
